@@ -1,0 +1,38 @@
+/*------------------------*/
+.cream { background-color: #eedd99 }
+
+/*-----------Link Styles---------*/
+a:link 		{color:#990000; text-decoration:none;}
+a:active	{color:#990000; text-decoration:none;}
+a:visited	{color:#990000; text-decoration:none;}
+a:hover 	{font-size:20px; color:blue; text-decoration:none;}
+
+
+/*----------Text Styles----------*/
+.fs6 {font-size: 8px;}
+.fs7 {font-size: 9.3px;}
+.fs8 {font-size: 11px;}
+.fs9 {font-size: 12px;}
+.fs10 {font-size: 13px;}
+.fs11 {font-size: 15px;}
+.fs12 {font-size: 16px;}
+.fs14 {font-size: 19px;}
+.fs16 {font-size: 21px;}
+.fs18 {font-size: 24px;}
+.fs20 {font-size: 27px;}
+.fs22 {font-size: 29px;}
+.fs24 {font-size: 32px;}
+.fs26 {font-size: 35px;}
+.fs28 {font-size: 37px;}
+.fs36 {font-size: 48px;}
+.fs48 {font-size: 64px;}
+.fs72 {font-size: 96px;}
+.wpmd {font-size: 13px;font-family: 'Arial';font-style: normal;font-weight: normal;}
+
+
+/*----------Para Styles----------*/
+DIV,UL,OL /* Left */
+{
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
